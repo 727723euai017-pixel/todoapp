@@ -26,7 +26,7 @@ A full-stack Todo application built with **Next.js 14 (App Router)**, featuring 
 
 | [Testing](./TESTING/test-strategy.md) | Test strategy, unit tests, test cases |
 
-| [Dev Setup](./DEV/local-setup.md) | Local setup, scripts, environment |
+| [Dev Setup](./DEV/local-setup.md) | Local setup, scripts,  environment |
 
 | [Troubleshooting](./TROUBLESHOOTING/common-errors.md) | Common errors and fixes |
 
